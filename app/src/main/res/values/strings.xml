@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plethora DSC</string>
+    <string name="first_slide_title">first_slide_title</string>
+    <string name="second_slide_title">first_slide_title</string>
+    <string name="third_slide_title">first_slide_title</string>
+    <string name="first_slide_desc">first_slide_title</string>
+    <string name="second_slide_desc">first_slide_title</string>
+    <string name="third_slide_desc">first_slide_title</string>
+</resources>

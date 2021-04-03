@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738788962908",
+    "project_id": "plethora-17e9d",
+    "storage_bucket": "plethora-17e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738788962908:android:8b5ebe6836908633a6ec99",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738788962908-lt5opc3a1o32q6jjgq6ugnojssjsqu5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9QtWyIi3i37uJ2MkXpI_-4u3lhLAxOik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738788962908-lt5opc3a1o32q6jjgq6ugnojssjsqu5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
